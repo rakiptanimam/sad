@@ -1,2 +1,0 @@
-py sadmain.py
-PAUSE
